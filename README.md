@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/prajwal.jpg" width="180px">
+
 
 # Hi 👋, I'm Prajwal Raut
 
