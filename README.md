@@ -4,79 +4,148 @@
 📊 Data Analyst | 💻 Full-Stack Developer | 🚀 Power BI Enthusiast
 </h3>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Programmer;Full+Stack+Developer" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Programmer;Full+Stack+Developer">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech (Computer Science and Engineering)
+- 🎓 B.Tech in Computer Science Engineering
 - 📍 Nagpur, Maharashtra, India
 - 📊 Passionate about Data Analytics
-- 💻 Exploring Java, Spring Boot, SQL, and Power BI
+- 💻 Skilled in Java, SQL, Power BI, and Python
 - 🌱 Currently learning advanced data visualization
+- 🚀 Building real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,html,css,javascript,vscode" />
+<img src="https://skillicons.dev/icons?i=python"/>
 
-</div>
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
 
 ---
 
 ## 📊 Data Analytics Tools
 
-<div align="center">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-</div>
+</p>
 
 ---
 
 ## 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Prajwal%20Raut&fontSize=50&fontColor=ffffff"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-</div>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B79A1,100:283E51&text=Data%20Analytics%20Portfolio&fontColor=ffffff&fontSize=45&animation=fadeIn" />
-</div>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 📌 Featured Projects
 
-<div align="center">
+### ⭐ Madhav Ecommerce Sales Dashboard
 
-<a href="YOUR_LINKEDIN_LINK">
+- Power BI Dashboard
+- KPI Analysis
+- Data Visualization
+
+---
+
+### ⭐ Blinkit Sales Dashboard
+
+- Sales Analytics
+- Customer Insights
+- Interactive Dashboard
+
+---
+
+### ⭐ Employee Management System
+
+- Java
+- Spring Boot
+- MySQL
+
+---
+
+### ⭐ Premier League Dashboard
+
+- Power BI
+- SQL
+- Excel
+
+---
+
+### ⭐ Weather Application
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### ⭐ Fitness Tracker Application
+
+- React
+- Python
+- MySQL
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -84,28 +153,20 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-</div>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 ---
 
-## 📌 Featured Projects
+<p align="center">
 
-⭐ Madhav Ecommerce Sales Dashboard
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4B79A1,100:283E51&section=footer"/>
 
-⭐ Blinkit Sales Dashboard
+</p>
 
-⭐ Employee Management System
-
-⭐ Premier League Dashboard
-
-⭐ Weather Application
-
-⭐ Fitness Tracker Application
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! ❤️
-
-</div>
+<h3 align="center">
+❤️ Thanks for visiting my profile!
+</h3>
