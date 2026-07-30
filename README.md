@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="C:\Users\Prajwal\Downloads\myimage (1).jpeg" width="180px">
+<img src="./images/prajwal.jpeg"
+     alt="Prajwal Raut"
+     width="180"
+     style="border-radius:50%;">
 
-# Hi 👋, I'm Prajwal Raut
+<h1>Hi 👋, I'm Prajwal Raut</h1>
 
-### 📊 Data Analyst | 💻 Full-Stack Developer | 🚀 Power BI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Java+Developer;Full-Stack+Developer" />
-
-<img src="https://komarev.com/ghpvc/?username=Rprajwal95x&label=Profile%20Views&color=0e75b6&style=flat" />
+<h3>
+📊 Data Analyst | 💻 Full-Stack Developer | 🚀 Power BI Enthusiast
+</h3>
 
 </div>
 
