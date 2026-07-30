@@ -66,7 +66,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Rprajwal95x&theme=tokyonight&hide_border=true" />
+</div>
 
 </div>
 
