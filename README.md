@@ -81,19 +81,18 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rprajwal95x&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rprajwal95x&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rprajwal95x&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rprajwal95x&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rprajwal95x&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -116,7 +115,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rprajwal95x&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rprajwal95x&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
