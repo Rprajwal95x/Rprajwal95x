@@ -1,18 +1,14 @@
 <div align="center">
 
-<div align="center">
+<img src="images/prajwal.jpg" width="180px">
 
-<img src="./images/myimage.jpeg"
-     alt="Prajwal Raut"
-     width="180">
+# Hi 👋, I'm Prajwal Raut
 
-</div>
+### 📊 Data Analyst | 💻 Full-Stack Developer | 🚀 Power BI Enthusiast
 
-<h1>Hi 👋, I'm Prajwal Raut</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Java+Developer;Full-Stack+Developer" />
 
-<h3>
-📊 Data Analyst | 💻 Full-Stack Developer | 🚀 Power BI Enthusiast
-</h3>
+<img src="https://komarev.com/ghpvc/?username=Rprajwal95x&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -85,18 +81,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rprajwal95x&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rprajwal95x&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rprajwal95x&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&layout=compact&theme=tokyonight"/>
 
 </div>
+
 ---
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rprajwal95x&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Rprajwal95x&theme=tokyonight"/>
 
 </div>
 
@@ -106,7 +103,6 @@
 
 | Project | Technology |
 |----------|-------------|
-|Blinkit Sales Dashbaord | Power BI |
 | Madhav Ecommerce Dashboard | Power BI |
 | Blinkit Sales Dashboard | Power BI |
 | Employee Management System | Spring Boot |
@@ -120,9 +116,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rprajwal95x&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rprajwal95x&theme=tokyonight&row=1&column=6"/>
 
 </div>
+
 ---
 
 # 🌐 Connect With Me
