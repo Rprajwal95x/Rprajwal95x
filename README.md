@@ -1,59 +1,41 @@
-<h1 align="center">Hi 👋, I'm Prajwal Raut</h1>
+<div align="center">
 
-<h3 align="center">
-📊 Data Analyst | 💻 Full-Stack Developer | 🚀 Power BI Enthusiast
-</h3>
+<img src="images/prajwal.jpg" width="220"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Programmer;Full+Stack+Developer">
-</p>
+# Hi 👋, I'm Prajwal Raut
+
+### 📊 Data Analyst | 💻 Full-Stack Developer | 🚀 Power BI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Programmer;Full+Stack+Developer"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering
+- 🎓 B.Tech (Computer Science and Engineering)
 - 📍 Nagpur, Maharashtra, India
 - 📊 Passionate about Data Analytics
-- 💻 Skilled in Java, SQL, Power BI, and Python
+- 💻 Exploring Java, Spring Boot, SQL, and Power BI
 - 🌱 Currently learning advanced data visualization
 - 🚀 Building real-world projects
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,html,css,javascript,react,spring,vscode"/>
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+</div>
 
 ---
 
-## 📊 Data Analytics Tools
+# 📊 Data Analytics Tools
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
@@ -63,37 +45,37 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Rprajwal95x&show_icons=true&theme=tokyonight"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&layout=compact&theme=tokyonight"/>
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 🔥 GitHub Streak
 
-### ⭐ Madhav Ecommerce Sales Dashboard
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rprajwal95x&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+## ⭐ Madhav Ecommerce Sales Dashboard
 
 - Power BI Dashboard
 - KPI Analysis
@@ -101,7 +83,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ---
 
-### ⭐ Blinkit Sales Dashboard
+## ⭐ Blinkit Sales Dashboard
 
 - Sales Analytics
 - Customer Insights
@@ -109,7 +91,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ---
 
-### ⭐ Employee Management System
+## ⭐ Employee Management System
 
 - Java
 - Spring Boot
@@ -117,7 +99,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ---
 
-### ⭐ Premier League Dashboard
+## ⭐ Premier League Dashboard
 
 - Power BI
 - SQL
@@ -125,7 +107,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ---
 
-### ⭐ Weather Application
+## ⭐ Weather Application
 
 - HTML
 - CSS
@@ -133,7 +115,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ---
 
-### ⭐ Fitness Tracker Application
+## ⭐ Fitness Tracker Application
 
 - React
 - Python
@@ -141,32 +123,36 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/">
+
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yourmail@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Rprajwal95x">
+
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4B79A1,100:283E51&section=footer"/>
 
-</p>
+### ❤️ Thanks for visiting my profile!
 
-<h3 align="center">
-❤️ Thanks for visiting my profile!
-</h3>
+</div>
