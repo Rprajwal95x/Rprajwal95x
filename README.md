@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rprajwal95x&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Prajwal%20Raut&fontSize=50&fontColor=ffffff"/>
 
 </div>
 
