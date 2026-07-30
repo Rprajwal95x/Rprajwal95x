@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/prajwal.jpg" width="180px">
+<img src="C:\Users\Prajwal\Downloads\myimage (1).jpeg" width="180px">
 
 # Hi 👋, I'm Prajwal Raut
 
