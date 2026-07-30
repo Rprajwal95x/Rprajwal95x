@@ -67,7 +67,7 @@
 <div align="center">
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Rprajwal95x&theme=tokyonight&hide_border=true" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B79A1,100:283E51&text=Data%20Analytics%20Portfolio&fontColor=ffffff&fontSize=45&animation=fadeIn" />
 </div>
 
 </div>
