@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rprajwal95x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
