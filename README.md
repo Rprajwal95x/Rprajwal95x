@@ -1,33 +1,61 @@
 <div align="center">
 
-<img src="images/prajwal.jpg" width="220"/>
+<img src="images/prajwal.jpg" width="180px">
 
 # Hi 👋, I'm Prajwal Raut
 
 ### 📊 Data Analyst | 💻 Full-Stack Developer | 🚀 Power BI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Programmer;Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Java+Developer;Full-Stack+Developer" />
+
+<img src="https://komarev.com/ghpvc/?username=Rprajwal95x&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 🚀 About Me
-
-- 🎓 B.Tech (Computer Science and Engineering)
-- 📍 Nagpur, Maharashtra, India
-- 📊 Passionate about Data Analytics
-- 💻 Exploring Java, Spring Boot, SQL, and Power BI
-- 🌱 Currently learning advanced data visualization
-- 🚀 Building real-world projects
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Prajwal%20Raut&fontSize=40&fontColor=ffffff"/>
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 B.Tech (Computer Science Engineering)
+- 📍 Nagpur, Maharashtra
+- 📊 Passionate about Data Analytics
+- 💻 Full-Stack Developer
+- 🌱 Learning Power BI, SQL, Python, and Spring Boot
+- ⚡ Turning data into meaningful insights
+
+---
+
+# 🛠️ Languages and Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,html,css,javascript,react,spring,vscode"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </div>
 
@@ -37,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
@@ -53,11 +81,9 @@
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Rprajwal95x&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rprajwal95x&show_icons=true&theme=tokyonight"/>
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -67,7 +93,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rprajwal95x&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rprajwal95x&theme=tokyonight"/>
 
 </div>
 
@@ -75,51 +101,25 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&
 
 # 📌 Featured Projects
 
-## ⭐ Madhav Ecommerce Sales Dashboard
-
-- Power BI Dashboard
-- KPI Analysis
-- Data Visualization
-
----
-
-## ⭐ Blinkit Sales Dashboard
-
-- Sales Analytics
-- Customer Insights
-- Interactive Dashboard
+| Project | Technology |
+|----------|-------------|
+|Blinkit Sales Dashbaord | Power BI |
+| Madhav Ecommerce Dashboard | Power BI |
+| Blinkit Sales Dashboard | Power BI |
+| Employee Management System | Spring Boot |
+| Premier League Dashboard | SQL + Power BI |
+| Weather Application | HTML + CSS + JavaScript |
+| Fitness Tracker Application | React |
 
 ---
 
-## ⭐ Employee Management System
+# 🏆 GitHub Achievements
 
-- Java
-- Spring Boot
-- MySQL
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Rprajwal95x&theme=tokyonight&row=1&column=6"/>
 
-## ⭐ Premier League Dashboard
-
-- Power BI
-- SQL
-- Excel
-
----
-
-## ⭐ Weather Application
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## ⭐ Fitness Tracker Application
-
-- React
-- Python
-- MySQL
+</div>
 
 ---
 
@@ -127,21 +127,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="YOUR_LINKEDIN_URL">
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
 
 </a>
 
 <a href="https://github.com/Rprajwal95x">
 
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 
 </a>
 
@@ -151,8 +151,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rprajwal95x&
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4B79A1,100:283E51&section=footer"/>
+### ⭐ "Turning data into meaningful insights."
 
-### ❤️ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
