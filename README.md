@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is prajwal and I'm a full stack developer from  nagpur</h2>
+<h2 align="left">Hi 👋! My name is prajwal and I'm a Data Analytics & full stack developer from  nagpur</h2>
 
 ###
 
@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://img.freepik.com/premium-vector/concept-programmer-coding_572499-109.jpg?w=826" />
+<img src="https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-8073.jpg" width="700" alt="Data Analytics Banner"/>
 
 ###
