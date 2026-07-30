@@ -52,6 +52,8 @@
 
 <br clear="both">
 
-<img src="https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-8073.jpg" width="700" alt="Data Analytics Banner"/>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="700">
+</div>
 
 ###
