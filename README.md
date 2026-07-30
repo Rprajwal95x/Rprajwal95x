@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="C:\Users\Prajwal\Downloads\myimage (1).jpeg"
+<div align="center">
+
+<img src="./images/myimage.jpeg"
      alt="Prajwal Raut"
-     width="180"
-     style="border-radius:50%;">
+     width="180">
+
+</div>
 
 <h1>Hi 👋, I'm Prajwal Raut</h1>
 
