@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/prajwal.jpeg"
+<img src="C:\Users\Prajwal\Downloads\myimage (1).jpeg"
      alt="Prajwal Raut"
      width="180"
      style="border-radius:50%;">
